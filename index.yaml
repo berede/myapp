@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-03T03:26:11.158682576Z"
+    description: A Helm chart for Kubernetes
+    digest: 60a0eca9e6cfd2d3ebedf1c86b1ec95f6063f5cbd8d50fdf4c6d31ed4244fd44
+    name: mychart
+    type: application
+    urls:
+    - https://berede.github.io/myapp/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-03T03:26:11.157903787Z"
